@@ -21,9 +21,6 @@ CISS is a lightweight scoring system to calculate the security risk of IoT devic
   * On submit, sends the values as a JSON payload to Flask backend.
   * Displays final risk score and message (Low, Medium, High).
 
-* report.pdf
-  Describes all the 15 metrics used in the scoring system, what they mean, and why they were weighted a certain way.
-
 ---
 
 ###  How it works:
