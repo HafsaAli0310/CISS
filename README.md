@@ -1,4 +1,6 @@
-###  CISS - IoT Device Security Scoring System
+#  CISS - IoT Device Security Scoring System
+
+**Group Number: 03**
 
 CISS is a lightweight scoring system to calculate the security risk of IoT devices. The scoring is based on common threats from the Mirai botnet malware (open source available) and assigns weights to different types of vulnerabilities based on how serious they are.
 
